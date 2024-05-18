@@ -14,3 +14,12 @@ class Program
         Console.WriteLine($"Your name is {last_name}, {first_name} {last_name}. ");
     }
 }
+
+
+
+
+// while (x < 3)
+// {
+//     Console.WriteLine("H.W");
+//     x += 1;
+// }
